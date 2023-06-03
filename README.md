@@ -5,7 +5,7 @@ Using HTML &amp; CSS I've created a charming website. In this repository, I've a
 
 
 
-### `Collected By` - _`Sajib Bhattacharjee`_
+### `Created By` - _`Sajib Bhattacharjee`_
 
 ---
 
