@@ -1,11 +1,11 @@
 ## `My Blog Website`
+```Node
+Using HTML & CSS I've created a charming website. In this repository, I've added all the source code.
 ```
-Using HTML &amp; CSS I've created a charming website. In this repository, I've added all the source code.
-```
 
 
 
-### `Created By` - _`Sajib Bhattacharjee`_
+### `Collected By` - _`Sajib Bhattacharjee`_
 
 ---
 
